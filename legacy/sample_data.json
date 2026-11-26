@@ -1,0 +1,1267 @@
+{
+  "dataset_name": "가상 무역 통계 2021–2025",
+  "mode": "demo",
+  "source_url": "",
+  "rows": [
+    {
+      "direction": "KR_ID",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2021,
+      "market_usd": 181505809,
+      "bilateral_usd": 41746336
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2022,
+      "market_usd": 202849335,
+      "bilateral_usd": 48521561
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2023,
+      "market_usd": 238938618,
+      "bilateral_usd": 59352353
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2024,
+      "market_usd": 276295256,
+      "bilateral_usd": 71173658
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2025,
+      "market_usd": 330539257,
+      "bilateral_usd": 88187874
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2021,
+      "market_usd": 90954177,
+      "bilateral_usd": 10914501
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2022,
+      "market_usd": 102250724,
+      "bilateral_usd": 12760890
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2023,
+      "market_usd": 108140764,
+      "bilateral_usd": 14015043
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2024,
+      "market_usd": 122510166,
+      "bilateral_usd": 16465366
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2025,
+      "market_usd": 132771812,
+      "bilateral_usd": 18481836
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 117974193,
+      "bilateral_usd": 22415097
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 135643571,
+      "bilateral_usd": 26803170
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 148875123,
+      "bilateral_usd": 30549175
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 170018907,
+      "bilateral_usd": 36180023
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 197416388,
+      "bilateral_usd": 43510572
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 260701087,
+      "bilateral_usd": 18249076
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 281202761,
+      "bilateral_usd": 20471561
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 316284979,
+      "bilateral_usd": 23911144
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 352484890,
+      "bilateral_usd": 27634815
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 369394451,
+      "bilateral_usd": 29994829
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 112018407,
+      "bilateral_usd": 12322025
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 121325415,
+      "bilateral_usd": 13879627
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 129438331,
+      "bilateral_usd": 15377274
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 139508507,
+      "bilateral_usd": 17187448
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 159533575,
+      "bilateral_usd": 20356484
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 79215654,
+      "bilateral_usd": 4752939
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 88971505,
+      "bilateral_usd": 5551822
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 101452284,
+      "bilateral_usd": 6574108
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 120994695,
+      "bilateral_usd": 8130844
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 135957721,
+      "bilateral_usd": 9462657
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2021,
+      "market_usd": 529582402,
+      "bilateral_usd": 74141536
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2022,
+      "market_usd": 569341042,
+      "bilateral_usd": 82896056
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2023,
+      "market_usd": 607846401,
+      "bilateral_usd": 91906376
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2024,
+      "market_usd": 673645116,
+      "bilateral_usd": 105627554
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2025,
+      "market_usd": 702298377,
+      "bilateral_usd": 114053256
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2021,
+      "market_usd": 682123258,
+      "bilateral_usd": 75033558
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2022,
+      "market_usd": 735046093,
+      "bilateral_usd": 84089273
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2023,
+      "market_usd": 769481287,
+      "bilateral_usd": 91414377
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2024,
+      "market_usd": 827467467,
+      "bilateral_usd": 101943992
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2025,
+      "market_usd": 862468669,
+      "bilateral_usd": 110051002
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2021,
+      "market_usd": 242945834,
+      "bilateral_usd": 21865125
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2022,
+      "market_usd": 261475056,
+      "bilateral_usd": 24474065
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2023,
+      "market_usd": 296140929,
+      "bilateral_usd": 28784898
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2024,
+      "market_usd": 332921836,
+      "bilateral_usd": 33558521
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2025,
+      "market_usd": 368123288,
+      "bilateral_usd": 38432071
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2021,
+      "market_usd": 127915769,
+      "bilateral_usd": 10233262
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2022,
+      "market_usd": 148458739,
+      "bilateral_usd": 12351767
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2023,
+      "market_usd": 175586331,
+      "bilateral_usd": 15170659
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2024,
+      "market_usd": 209904739,
+      "bilateral_usd": 18807465
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2025,
+      "market_usd": 241629681,
+      "bilateral_usd": 22423234
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 337351692,
+      "bilateral_usd": 43855720
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 384185035,
+      "bilateral_usd": 51941817
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 443363295,
+      "bilateral_usd": 62248207
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 530645080,
+      "bilateral_usd": 77261924
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 599943987,
+      "bilateral_usd": 90471553
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 412684623,
+      "bilateral_usd": 66029540
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 478272913,
+      "bilateral_usd": 79584613
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 588582875,
+      "bilateral_usd": 101707121
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 676961570,
+      "bilateral_usd": 121311513
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 816242451,
+      "bilateral_usd": 151494599
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 195580566,
+      "bilateral_usd": 23469668
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 199259837,
+      "bilateral_usd": 24867628
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 206206204,
+      "bilateral_usd": 26724324
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 216091552,
+      "bilateral_usd": 29042705
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 226845532,
+      "bilateral_usd": 31576898
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 315133598,
+      "bilateral_usd": 28362024
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 326307515,
+      "bilateral_usd": 30542383
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 344955009,
+      "bilateral_usd": 33529627
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 375558280,
+      "bilateral_usd": 37856275
+    },
+    {
+      "direction": "KR_ID",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 400684099,
+      "bilateral_usd": 41831420
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2021,
+      "market_usd": 121409432,
+      "bilateral_usd": 22719106
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2022,
+      "market_usd": 146297059,
+      "bilateral_usd": 28471329
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2023,
+      "market_usd": 170047917,
+      "bilateral_usd": 34366387
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2024,
+      "market_usd": 207045077,
+      "bilateral_usd": 43393205
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3304",
+      "name": "화장품·스킨케어",
+      "sector": "뷰티",
+      "year": 2025,
+      "market_usd": 237912262,
+      "bilateral_usd": 51643256
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2021,
+      "market_usd": 65773299,
+      "bilateral_usd": 8475094
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2022,
+      "market_usd": 71467292,
+      "bilateral_usd": 9577134
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2023,
+      "market_usd": 77586412,
+      "bilateral_usd": 10797030
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2024,
+      "market_usd": 80268310,
+      "bilateral_usd": 11583959
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3305",
+      "name": "헤어케어",
+      "sector": "뷰티",
+      "year": 2025,
+      "market_usd": 84611550,
+      "bilateral_usd": 12646855
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 180629615,
+      "bilateral_usd": 7553613
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 201103850,
+      "bilateral_usd": 8746202
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 230134123,
+      "bilateral_usd": 10393709
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 257737356,
+      "bilateral_usd": 12071498
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1902",
+      "name": "면류·파스타",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 279614043,
+      "bilateral_usd": 13563842
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 135405045,
+      "bilateral_usd": 28337900
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 151215942,
+      "bilateral_usd": 32912717
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 163459143,
+      "bilateral_usd": 36945861
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 168967932,
+      "bilateral_usd": 39605467
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "2106",
+      "name": "기타 조제식품",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 191890636,
+      "bilateral_usd": 46584838
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 133103262,
+      "bilateral_usd": 9897913
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 143555027,
+      "bilateral_usd": 11102139
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 163037059,
+      "bilateral_usd": 13093779
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 181765422,
+      "bilateral_usd": 15138548
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "0901",
+      "name": "커피",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 208504443,
+      "bilateral_usd": 17985736
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 110894871,
+      "bilateral_usd": 13042172
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 123807211,
+      "bilateral_usd": 15143203
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 131956807,
+      "bilateral_usd": 16760772
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 136256293,
+      "bilateral_usd": 17947875
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1801",
+      "name": "코코아 원두",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 148595026,
+      "bilateral_usd": 20272192
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2021,
+      "market_usd": 583706859,
+      "bilateral_usd": 96932987
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2022,
+      "market_usd": 621798791,
+      "bilateral_usd": 107389052
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2023,
+      "market_usd": 643456836,
+      "bilateral_usd": 115403763
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2024,
+      "market_usd": 654328663,
+      "bilateral_usd": 121700052
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8471",
+      "name": "컴퓨터·데이터처리기기",
+      "sector": "디지털",
+      "year": 2025,
+      "market_usd": 700941990,
+      "bilateral_usd": 135025832
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2021,
+      "market_usd": 326947897,
+      "bilateral_usd": 61323507
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2022,
+      "market_usd": 373363973,
+      "bilateral_usd": 72830650
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2023,
+      "market_usd": 433270089,
+      "bilateral_usd": 87766929
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2024,
+      "market_usd": 536327458,
+      "bilateral_usd": 112666938
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8517",
+      "name": "통신기기",
+      "sector": "디지털",
+      "year": 2025,
+      "market_usd": 634511367,
+      "bilateral_usd": 138052995
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2021,
+      "market_usd": 132654786,
+      "bilateral_usd": 5014923
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2022,
+      "market_usd": 146653851,
+      "bilateral_usd": 5765914
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2023,
+      "market_usd": 155978450,
+      "bilateral_usd": 6368391
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2024,
+      "market_usd": 176055340,
+      "bilateral_usd": 7454330
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "9018",
+      "name": "의료기기",
+      "sector": "보건",
+      "year": 2025,
+      "market_usd": 195445612,
+      "bilateral_usd": 8570878
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2021,
+      "market_usd": 94736085,
+      "bilateral_usd": 9784392
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2022,
+      "market_usd": 112956239,
+      "bilateral_usd": 12132826
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2023,
+      "market_usd": 133547098,
+      "bilateral_usd": 14896239
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2024,
+      "market_usd": 151224600,
+      "bilateral_usd": 17492782
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "3822",
+      "name": "진단용 시약",
+      "sector": "보건",
+      "year": 2025,
+      "market_usd": 177968332,
+      "bilateral_usd": 21321568
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 525739694,
+      "bilateral_usd": 55753914
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 581109360,
+      "bilateral_usd": 64090816
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 662138122,
+      "bilateral_usd": 75836266
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 754878609,
+      "bilateral_usd": 89660207
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8504",
+      "name": "변압기·전력변환기",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 867653885,
+      "bilateral_usd": 106735552
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 290549420,
+      "bilateral_usd": 11079730
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 300987716,
+      "bilateral_usd": 11936893
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 332629438,
+      "bilateral_usd": 13699150
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 352084779,
+      "bilateral_usd": 15037459
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "8507",
+      "name": "축전지",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 356368710,
+      "bilateral_usd": 15764011
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2021,
+      "market_usd": 132259334,
+      "bilateral_usd": 8548425
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2022,
+      "market_usd": 157564796,
+      "bilateral_usd": 10591374
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2023,
+      "market_usd": 175083604,
+      "bilateral_usd": 12221626
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2024,
+      "market_usd": 197618333,
+      "bilateral_usd": 14305565
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "4001",
+      "name": "천연고무",
+      "sector": "산업",
+      "year": 2025,
+      "market_usd": 228578616,
+      "bilateral_usd": 17137732
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2021,
+      "market_usd": 413140244,
+      "bilateral_usd": 17737020
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2022,
+      "market_usd": 436252144,
+      "bilateral_usd": 19478435
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2023,
+      "market_usd": 462071357,
+      "bilateral_usd": 21424759
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2024,
+      "market_usd": 495830611,
+      "bilateral_usd": 23841551
+    },
+    {
+      "direction": "ID_KR",
+      "hs": "1511",
+      "name": "팜유",
+      "sector": "식품",
+      "year": 2025,
+      "market_usd": 522077032,
+      "bilateral_usd": 26000142
+    }
+  ]
+}
