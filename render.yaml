@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: indonesia-bridge
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    envVars:
+      - key: IB_HOST
+        value: 0.0.0.0
+      - key: IB_ADMIN_TOKEN
+        sync: false

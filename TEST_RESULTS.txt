@@ -1,0 +1,4 @@
+PASS SQL 130,560 demo rows / 32 HS / 120 months / 15 comparison countries + focus + world
+PASS JSON / CSV / XLSX / HS catalog / auth / incomplete month guard / KCS XML fixture
+PASS browser search, detail, monthly chart, watch, calculator, ops, legacy 8 menus; no uncaught JS errors
+Browser navigation blocked by sandbox policy; browser code tested with Python HTTP relay. External API / hosting / payments / actual browser download and printing not verified.
